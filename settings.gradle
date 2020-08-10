@@ -1,0 +1,2 @@
+rootProject.name='SnackBar for CornevoyView'
+include ':app'
